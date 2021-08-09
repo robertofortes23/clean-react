@@ -1,0 +1,20 @@
+{
+  "name": "clean-react",
+  "version": "1.0.0",
+  "description": "Sistema em ReactJs usando Hooks, Typescript, TDD, Clean Architecture, Design Patterns e SOLID.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertofortes23/clean-react.git"
+  },
+  "keywords": [],
+  "author": "Roberto Fortes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robertofortes23/clean-react/issues"
+  },
+  "homepage": "https://github.com/robertofortes23/clean-react#readme"
+}
