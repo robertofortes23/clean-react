@@ -4,7 +4,10 @@
   "description": "Sistema em ReactJs usando Hooks, Typescript, TDD, Clean Architecture, Design Patterns e SOLID.",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --passWithNoTests",
+    "test:watch": "npm test -- --watch",
+    "teste:staged": "npm test -- --findRelatedTests",
+    "teste:ci": "npm test -- --coverage"
   },
   "repository": {
     "type": "git",
