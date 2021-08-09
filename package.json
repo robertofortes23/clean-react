@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/robertofortes23/clean-react/issues"
   },
-  "homepage": "https://github.com/robertofortes23/clean-react#readme"
+  "homepage": "https://github.com/robertofortes23/clean-react#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.2.6"
+  }
 }
